@@ -1,0 +1,28 @@
+* {
+	padding: 0;
+	margin:0;
+	font-family: 'Lato', sans-serif;
+}
+body {
+	background: #41295a;
+	background: -webkit-linear-gradient(to bottom, #2F0743, #41295a);
+	background: linear-gradient(to bottom, #2F0743, #41295a);
+	color: #3d3d3d;
+}
+img {
+	width:20%;
+}
+.notesContainer {
+	margin: 10%;
+    background: #fff;
+    padding: 0% 5% 5% 5%;
+    border-radius: 10px;
+}
+.notesHeader {
+    text-align: center;
+}
+.notesBody {
+	text-align: center;
+	padding: 4%;
+	background: #efefef;
+}
